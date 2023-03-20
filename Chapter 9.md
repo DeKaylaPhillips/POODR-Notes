@@ -99,8 +99,9 @@ EXPOSING DESIGN FLAWS
 - Tests you write should be for messages defined in public interfaces
 
 ***KEY TERM:*** COUPLING
-    -   The degree of interdependence between software modules;
-    -   A measure of how closely connected two routines or modules are;
-    -   The strength of the relationship between modules
+
+- The degree of interdependence between software modules;
+- A measure of how closely connected two routines or modules are;
+- The strength of the relationship between modules
 
 --- STOPPING POINT --- PAGE 196 (03/20/2023) ---
