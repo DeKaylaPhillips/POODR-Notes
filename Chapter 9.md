@@ -58,9 +58,10 @@ DEFERRING DESIGN DECISIONS
 - Changes to implemented code do not force rewrites of the tests
     *Depending on interfaces lets you use test to defer design decisions safely w/o penalty*
 
-*KEY TERM: 'LEVELS OF ABSTRACTION'*
-    - Degree of detail or complexity in a system's design
-    - The more abstract an object is, the less it depends on the details of other objects or its surrounds to function
+*KEY TERM:* LEVELS OF ABSTRACTION
+
+- Degree of detail or complexity in a system's design
+- The more abstract an object is, the less it depends on the details of other objects or its surrounds to function
 
 SUPPORTING ABSTRACTIONS
 
@@ -97,7 +98,7 @@ EXPOSING DESIGN FLAWS
   - Limit couplings to a few and allow them to be stable
 - Tests you write should be for messages defined in public interfaces
 
-*KEY TERM: 'COUPLING'*
+*KEY TERM:* COUPLING
     -   The degree of interdependence between software modules;
     -   A measure of how closely connected two routines or modules are;
     -   The strength of the relationship between modules
