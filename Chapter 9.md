@@ -34,7 +34,7 @@
 
 - Writing high-value tests requires clarity of intention and knowing what, when, and how to test.
 
-### INTENTIONAL TESTING: Knowing Your Intentions -----------------------
+### Knowing Your Intentions -----------------------
 
 FINDING BUGS
 
@@ -80,7 +80,7 @@ EXPOSING DESIGN FLAWS
     *The inverse isn't guaranteed to be true*
 - For tests to lower your costs, both the underlying application and tests must be well-designed
 
-### INTENTIONAL TESTING: Knowing What To Test -----------------------
+### Knowing What To Test -----------------------
 
 - Removing duplication from testing lowers cost of changing tests in reaction to application changes
 - Putting tests in the right place guarantees they're be forced to change only when necessary
