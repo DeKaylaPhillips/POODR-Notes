@@ -124,25 +124,24 @@ Design Patterns book describes patterns as...
 **How Design Fails:**
 
 1. Lack of design.
+    - it is possible to produce working applications without knowing the first thing about design
+    - true of any OO language but some languages are more susceptible than others and an approachable languages
+    - especially true for an approachable language like `Ruby`
+        - a friendly language that permits anyone to create scripts to automate repetitive tasks and an opinionated framework like Ruby on Rails
 
-- it is possible to produce working applications without knowing the first thing about design
-  - true of any OO language but some languages are more susceptible than others and an approachable languages
-  - especially true for an approachable language like `Ruby`
-  - a friend's language that permits anyone to create scripts to automate repetitive tasks and an opinionated framework like Ruby on Rails
+    - successful, but undesigned applications carry the seeds of their own destruction
+    - easy to write but gradually become impossible to change
+    - early promise of painless development gradually fails and optimism turns to despair
 
-- successful, but undesigned applications carry the seeds of their own destruction
-  - easy to write but gradually become impossible to change
-  - early promise of painless development gradually fails and optimism turns to despair
+2. Trap of overdesign.
+    - little knowledge is dangerous
+    - as knowledge increases + hope returns - results in relentless design!
 
-- the trap of overdesign
-  - little knowledge is dangerous
-  - as knowledge increases + hope returns - results in relentless design!
-
-- when the act of design is separated from the act of programming
-  - process of progressive discovery that relies on a feedback loop
-    - feedback loop - timely and incremental
-- use iterative techniques of the Agile software movement
-  - allows design to adjust regularly and to evolve naturally
+    - when the act of design is separated from the act of programming
+    - process of progressive discovery that relies on a feedback loop
+        - feedback loop - timely and incremental
+    - use iterative techniques of the Agile software movement
+        - allows design to adjust regularly and to evolve naturally
 
 **When To Design:**
 ...  
